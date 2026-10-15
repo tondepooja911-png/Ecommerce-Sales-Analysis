@@ -45,5 +45,30 @@ Created an interactive Power BI dashboard to visualize sales performance, custom
 
 ## Conclusion
 This project demonstrates practical skills in SQL data analysis and Power BI dashboard development. It helps transform raw e-commerce data into meaningful business insights that support better decision-making.
+<img width="601" height="337" alt="image" src="https://github.com/user-attachments/assets/60fe2150-01f3-44ca-a5a3-0d11179b1f4a" />
 
+## Power BI Dashboard – E-Commerce Sales Analytics
 
+### Project Overview
+Created an interactive Power BI dashboard to analyze e-commerce sales performance, customer insights, product categories, and order trends.
+
+### Dashboard Features
+- **Sales Performance:** Analyze overall sales and sales trends.
+- **Customer Insights:** Understand customer data and purchasing patterns.
+- **Product Analysis:** Analyze products and category-wise performance.
+- **Order Analysis:** Track order status, including Delivered, Pending, and Cancelled.
+- **Monthly Trends:** Analyze sales and order trends over time.
+
+### Tools & Technologies
+- **Power BI:** Dashboard creation and data visualization.
+- **MySQL:** Data querying and analysis.
+- **Excel:** Data organization and preparation.
+
+### Key Objectives
+- Understand sales performance and business trends.
+- Identify top-performing products and categories.
+- Analyze customer and order data.
+- Present business insights using interactive visualizations.
+
+### Project Outcome
+Developed a dashboard to present e-commerce data in a clear and visual format, helping users understand sales performance, customer behavior, and product trends.
